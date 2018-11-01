@@ -1,3 +1,3 @@
-# Datasets
+# Zika Virus
 
-Here I place some datasets I plan on using to practice my data scientist skills.
+Here I study some data regarding the zika virus outbreak.
