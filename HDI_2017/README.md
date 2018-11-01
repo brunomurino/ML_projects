@@ -1,3 +1,3 @@
-# Machine Learning Projects
+# HDI 2017
 
-Here I place some projects I am developing.
+Here I study the HDI table of 2017.
