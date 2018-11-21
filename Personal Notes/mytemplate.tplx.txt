@@ -1,0 +1,9 @@
+%%writefile mytemplate.tplx
+
+((*- extends 'article.tplx' -*))
+
+((* block packages *))
+((( super() )))
+\usepackage{amsmath}
+\usepackage{newtxtext,newtxmath}
+((* endblock packages *))
